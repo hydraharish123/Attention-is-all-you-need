@@ -1,0 +1,120 @@
+[RNN | NoAttention] Epoch [1/5] | Train Loss: 0.6966
+[RNN | NoAttention] Epoch [2/5] | Train Loss: 0.6947
+[RNN | NoAttention] Epoch [3/5] | Train Loss: 0.6945
+[RNN | NoAttention] Epoch [4/5] | Train Loss: 0.6947
+[RNN | NoAttention] Epoch [5/5] | Train Loss: 0.6944
+[RNN | NoAttention] Final Val -> Loss: 0.6977 | Acc: 0.4882 | F1: 0.3280 | Precision: 0.2441 | Recall: 0.4998
+[RNN | Bahdanau] Epoch [1/5] | Train Loss: 0.5302
+[RNN | Bahdanau] Epoch [2/5] | Train Loss: 0.3681
+[RNN | Bahdanau] Epoch [3/5] | Train Loss: 0.3434
+[RNN | Bahdanau] Epoch [4/5] | Train Loss: 0.3239
+[RNN | Bahdanau] Epoch [5/5] | Train Loss: 0.3142
+[RNN | Bahdanau] Final Val -> Loss: 0.3240 | Acc: 0.8638 | F1: 0.8638 | Precision: 0.8640 | Recall: 0.8641
+[RNN | Dot] Epoch [1/5] | Train Loss: 0.6971
+[RNN | Dot] Epoch [2/5] | Train Loss: 0.6961
+[RNN | Dot] Epoch [3/5] | Train Loss: 0.6946
+[RNN | Dot] Epoch [4/5] | Train Loss: 0.6963
+[RNN | Dot] Epoch [5/5] | Train Loss: 0.6980
+[RNN | Dot] Final Val -> Loss: 0.6958 | Acc: 0.4882 | F1: 0.3280 | Precision: 0.2441 | Recall: 0.4998
+[RNN | General] Epoch [1/5] | Train Loss: 0.5091
+[RNN | General] Epoch [2/5] | Train Loss: 0.4077
+[RNN | General] Epoch [3/5] | Train Loss: 0.3814
+[RNN | General] Epoch [4/5] | Train Loss: 0.3624
+[RNN | General] Epoch [5/5] | Train Loss: 0.3483
+[RNN | General] Final Val -> Loss: 0.3437 | Acc: 0.8545 | F1: 0.8544 | Precision: 0.8568 | Recall: 0.8555
+[RNN | Concat] Epoch [1/5] | Train Loss: 0.5370
+[RNN | Concat] Epoch [2/5] | Train Loss: 0.3656
+[RNN | Concat] Epoch [3/5] | Train Loss: 0.3353
+[RNN | Concat] Epoch [4/5] | Train Loss: 0.3215
+[RNN | Concat] Epoch [5/5] | Train Loss: 0.3081
+[RNN | Concat] Final Val -> Loss: 0.3525 | Acc: 0.8520 | F1: 0.8510 | Precision: 0.8577 | Recall: 0.8505
+[LSTM | NoAttention] Epoch [1/5] | Train Loss: 0.6953
+[LSTM | NoAttention] Epoch [2/5] | Train Loss: 0.6932
+[LSTM | NoAttention] Epoch [3/5] | Train Loss: 0.6933
+[LSTM | NoAttention] Epoch [4/5] | Train Loss: 0.6933
+[LSTM | NoAttention] Epoch [5/5] | Train Loss: 0.6932
+[LSTM | NoAttention] Final Val -> Loss: 0.6929 | Acc: 0.5118 | F1: 0.3389 | Precision: 0.7559 | Recall: 0.5002
+[LSTM | Bahdanau] Epoch [1/5] | Train Loss: 0.5286
+[LSTM | Bahdanau] Epoch [2/5] | Train Loss: 0.3503
+[LSTM | Bahdanau] Epoch [3/5] | Train Loss: 0.3111
+[LSTM | Bahdanau] Epoch [4/5] | Train Loss: 0.2888
+[LSTM | Bahdanau] Epoch [5/5] | Train Loss: 0.2660
+[LSTM | Bahdanau] Final Val -> Loss: 0.2844 | Acc: 0.8843 | F1: 0.8842 | Precision: 0.8844 | Recall: 0.8841
+[LSTM | Dot] Epoch [1/5] | Train Loss: 0.6925
+[LSTM | Dot] Epoch [2/5] | Train Loss: 0.5271
+[LSTM | Dot] Epoch [3/5] | Train Loss: 0.3620
+[LSTM | Dot] Epoch [4/5] | Train Loss: 0.3233
+[LSTM | Dot] Epoch [5/5] | Train Loss: 0.2958
+[LSTM | Dot] Final Val -> Loss: 0.3005 | Acc: 0.8740 | F1: 0.8739 | Precision: 0.8739 | Recall: 0.8740
+[LSTM | General] Epoch [1/5] | Train Loss: 0.6924
+[LSTM | General] Epoch [2/5] | Train Loss: 0.6900
+[LSTM | General] Epoch [3/5] | Train Loss: 0.6928
+[LSTM | General] Epoch [4/5] | Train Loss: 0.6935
+[LSTM | General] Epoch [5/5] | Train Loss: 0.6931
+[LSTM | General] Final Val -> Loss: 0.6928 | Acc: 0.5117 | F1: 0.3385 | Precision: 0.2558 | Recall: 0.5000
+[LSTM | Concat] Epoch [1/5] | Train Loss: 0.5542
+[LSTM | Concat] Epoch [2/5] | Train Loss: 0.3553
+[LSTM | Concat] Epoch [3/5] | Train Loss: 0.3133
+[LSTM | Concat] Epoch [4/5] | Train Loss: 0.2916
+[LSTM | Concat] Epoch [5/5] | Train Loss: 0.2667
+[LSTM | Concat] Final Val -> Loss: 0.2897 | Acc: 0.8807 | F1: 0.8806 | Precision: 0.8835 | Recall: 0.8817
+[BiRNN | NoAttention] Epoch [1/5] | Train Loss: 0.6834
+[BiRNN | NoAttention] Epoch [2/5] | Train Loss: 0.6769
+[BiRNN | NoAttention] Epoch [3/5] | Train Loss: 0.6641
+[BiRNN | NoAttention] Epoch [4/5] | Train Loss: 0.6755
+[BiRNN | NoAttention] Epoch [5/5] | Train Loss: 0.6643
+[BiRNN | NoAttention] Final Val -> Loss: 0.7113 | Acc: 0.5138 | F1: 0.3481 | Precision: 0.5786 | Recall: 0.5023
+[BiRNN | Bahdanau] Epoch [1/5] | Train Loss: 0.5105
+[BiRNN | Bahdanau] Epoch [2/5] | Train Loss: 0.3470
+[BiRNN | Bahdanau] Epoch [3/5] | Train Loss: 0.3256
+[BiRNN | Bahdanau] Epoch [4/5] | Train Loss: 0.3016
+[BiRNN | Bahdanau] Epoch [5/5] | Train Loss: 0.2900
+[BiRNN | Bahdanau] Final Val -> Loss: 0.3130 | Acc: 0.8668 | F1: 0.8667 | Precision: 0.8668 | Recall: 0.8667
+[BiRNN | Dot] Epoch [1/5] | Train Loss: 0.7003
+[BiRNN | Dot] Epoch [2/5] | Train Loss: 0.6950
+[BiRNN | Dot] Epoch [3/5] | Train Loss: 0.6984
+[BiRNN | Dot] Epoch [4/5] | Train Loss: 0.7027
+[BiRNN | Dot] Epoch [5/5] | Train Loss: 0.6981
+[BiRNN | Dot] Final Val -> Loss: 0.6867 | Acc: 0.5295 | F1: 0.5289 | Precision: 0.5308 | Recall: 0.5306
+[BiRNN | General] Epoch [1/5] | Train Loss: 0.6159
+[BiRNN | General] Epoch [2/5] | Train Loss: 0.5734
+[BiRNN | General] Epoch [3/5] | Train Loss: 0.5597
+[BiRNN | General] Epoch [4/5] | Train Loss: 0.5403
+[BiRNN | General] Epoch [5/5] | Train Loss: 0.5456
+[BiRNN | General] Final Val -> Loss: 0.5630 | Acc: 0.7285 | F1: 0.7282 | Precision: 0.7284 | Recall: 0.7281
+[BiRNN | Concat] Epoch [1/5] | Train Loss: 0.4697
+[BiRNN | Concat] Epoch [2/5] | Train Loss: 0.3383
+[BiRNN | Concat] Epoch [3/5] | Train Loss: 0.3127
+[BiRNN | Concat] Epoch [4/5] | Train Loss: 0.2955
+[BiRNN | Concat] Epoch [5/5] | Train Loss: 0.2801
+[BiRNN | Concat] Final Val -> Loss: 0.3619 | Acc: 0.8510 | F1: 0.8504 | Precision: 0.8614 | Recall: 0.8530
+[BiLSTM | NoAttention] Epoch [1/5] | Train Loss: 0.6457
+[BiLSTM | NoAttention] Epoch [2/5] | Train Loss: 0.5970
+[BiLSTM | NoAttention] Epoch [3/5] | Train Loss: 0.5078
+[BiLSTM | NoAttention] Epoch [4/5] | Train Loss: 0.4803
+[BiLSTM | NoAttention] Epoch [5/5] | Train Loss: 0.4510
+[BiLSTM | NoAttention] Final Val -> Loss: 0.3746 | Acc: 0.8428 | F1: 0.8427 | Precision: 0.8428 | Recall: 0.8427
+[BiLSTM | Bahdanau] Epoch [1/5] | Train Loss: 0.4683
+[BiLSTM | Bahdanau] Epoch [2/5] | Train Loss: 0.3212
+[BiLSTM | Bahdanau] Epoch [3/5] | Train Loss: 0.2852
+[BiLSTM | Bahdanau] Epoch [4/5] | Train Loss: 0.2561
+[BiLSTM | Bahdanau] Epoch [5/5] | Train Loss: 0.2289
+[BiLSTM | Bahdanau] Final Val -> Loss: 0.3082 | Acc: 0.8792 | F1: 0.8792 | Precision: 0.8804 | Recall: 0.8799
+[BiLSTM | Dot] Epoch [1/5] | Train Loss: 0.5743
+[BiLSTM | Dot] Epoch [2/5] | Train Loss: 0.3462
+[BiLSTM | Dot] Epoch [3/5] | Train Loss: 0.3000
+[BiLSTM | Dot] Epoch [4/5] | Train Loss: 0.2730
+[BiLSTM | Dot] Epoch [5/5] | Train Loss: 0.2480
+[BiLSTM | Dot] Final Val -> Loss: 0.3051 | Acc: 0.8727 | F1: 0.8721 | Precision: 0.8758 | Recall: 0.8716
+[BiLSTM | General] Epoch [1/5] | Train Loss: 0.4574
+[BiLSTM | General] Epoch [2/5] | Train Loss: 0.3208
+[BiLSTM | General] Epoch [3/5] | Train Loss: 0.2837
+[BiLSTM | General] Epoch [4/5] | Train Loss: 0.2559
+[BiLSTM | General] Epoch [5/5] | Train Loss: 0.2182
+[BiLSTM | General] Final Val -> Loss: 0.3116 | Acc: 0.8843 | F1: 0.8843 | Precision: 0.8843 | Recall: 0.8842
+[BiLSTM | Concat] Epoch [1/5] | Train Loss: 0.5040
+[BiLSTM | Concat] Epoch [2/5] | Train Loss: 0.3313
+[BiLSTM | Concat] Epoch [3/5] | Train Loss: 0.2972
+[BiLSTM | Concat] Epoch [4/5] | Train Loss: 0.2652
+[BiLSTM | Concat] Epoch [5/5] | Train Loss: 0.2392
+[BiLSTM | Concat] Final Val -> Loss: 0.2777 | Acc: 0.8855 | F1: 0.8854 | Precision: 0.8859 | Recall: 0.8851
